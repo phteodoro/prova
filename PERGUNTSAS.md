@@ -11,3 +11,7 @@ O commit é basicamente um empacotamento de um grupo de alterações, juntando t
 03- O QUE É UM REPOSITORIO?
 
 Um repositorio é nada mais que uma pasta onde se guarda ou arquiva alguma coisa, tendo o repositorio local e movel.
+
+04- O QUE É MERGED?
+
+O merged é uma pequena junçao de branch, podendo levar informaçoes/codigos para o repositorio main.
