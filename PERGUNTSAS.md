@@ -19,3 +19,7 @@ O merged é uma pequena junçao de branch, podendo levar informaçoes/codigos pa
 05- O QUE É PULL?
 
 A açao pull tras as informaçoes do repositorio local para o repositorio remoto.
+
+06- O QUE É BRANCH?
+
+A funçao da branch é cria ramificaçoes de um repositorio, podendo levar infomaçoes para o repositorio main de acordo com a vontade do usuario.
