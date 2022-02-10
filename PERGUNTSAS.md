@@ -15,3 +15,7 @@ Um repositorio é nada mais que uma pasta onde se guarda ou arquiva alguma coisa
 04- O QUE É MERGED?
 
 O merged é uma pequena junçao de branch, podendo levar informaçoes/codigos para o repositorio main.
+
+05- O QUE É PULL?
+
+A açao pull tras as informaçoes do repositorio local para o repositorio remoto.
